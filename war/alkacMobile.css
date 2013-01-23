@@ -1,0 +1,51 @@
+/** Add css rules here for your application. */
+
+.containers {
+	text-align: center;
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: bold;
+	color: rgba(0, 0, 0, .4);
+	text-shadow: rgba(255, 255, 255, .2) 0 1px 0;
+	padding: 10px;
+}
+
+.green {
+	background-color: #759E60 !important;
+}
+
+.ligth_gray {
+	background-color: #EEE !important;	
+}
+
+.gray {
+	background-color: #CCC !important;
+}
+
+.purple {
+	background-color: #926D9C !important;
+}
+
+.orange {
+	background-color: #9C744F !important;
+}
+
+.blue {
+	background-color: #5E99CC !important;	
+}
+
+.myAudio-outer {
+    text-align: center;
+    background-color: #6A466F;
+}
+
+.myAudio {
+    position: relative;
+}
+
+.myAudio audio {
+    position: absolute;
+    top: 50%;
+    margin-top: -12px;
+    width: 100%;
+}

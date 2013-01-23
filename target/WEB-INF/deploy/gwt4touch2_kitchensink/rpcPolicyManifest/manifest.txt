@@ -1,0 +1,4 @@
+# Module gwt4touch2_kitchensink
+# RPC service class, partial path of RPC policy file
+com.google.gwt.logging.shared.RemoteLoggingService, F8B17EA53545652769639A0E9067651A.gwt.rpc
+com.emitrom.gwt4.touch2.demo.client.KitchenSinkService, 5836A110C852CEAECF346903252865AE.gwt.rpc

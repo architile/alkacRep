@@ -1,0 +1,2 @@
+serviceClass: com.emitrom.gwt4.touch2.demo.client.KitchenSinkService
+path: 5836A110C852CEAECF346903252865AE.gwt.rpc

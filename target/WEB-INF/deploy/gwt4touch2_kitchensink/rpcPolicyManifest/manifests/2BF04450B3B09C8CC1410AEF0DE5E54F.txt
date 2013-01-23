@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.logging.shared.RemoteLoggingService
+path: F8B17EA53545652769639A0E9067651A.gwt.rpc
